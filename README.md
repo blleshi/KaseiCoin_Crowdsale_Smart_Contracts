@@ -77,13 +77,3 @@ This project involves creating a new cryptocurrency named **KaseiCoin** (where "
 4. Adjust the `KaseiCoinCrowdsaleDeployer` contract to handle the new crowdsale contract.
 5. Compile, test, and ensure that the updated contract meets the desired functionality.
 6. Record the deployment and testing steps as evidence.
-
-## Evaluation Evidence
-
-Place your screenshots or video here to demonstrate the successful compilation, deployment, and functionality of the KaseiCoin smart contracts.
-
-- **KaseiCoin Token Contract Compilation**: ![KaseiCoin Token Compilation](screenshot1.png)
-- **KaseiCoin Crowdsale Contract Compilation**: ![KaseiCoin Crowdsale Compilation](screenshot2.png)
-- **KaseiCoin Deployer Contract Compilation**: ![KaseiCoin Deployer Compilation](screenshot3.png)
-- **Crowdsale Deployment Evidence**: [Crowdsale Deployment Video](https://www.example.com)
-
